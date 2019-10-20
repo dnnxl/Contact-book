@@ -8,3 +8,7 @@
 ## Add person
 
 ![Add person](demo/addPerson.gif)
+
+## Help option
+
+![Add person](demo/help.gif)
