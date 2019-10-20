@@ -3,4 +3,8 @@
 
 ## Simple data validation
 
-![Farmers Market Finder - Animated gif demo](demo/options.gif)
+![Validations](demo/options.gif)
+
+## Add person
+
+![Add person](demo/addPerson.gif)
